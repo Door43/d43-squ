@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[squ:home|Door43 (squ)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-squ|d43-squ repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-squ/archive/master.zip|d43-squ.zip]]
+
+**Recent Changes**
+{{changes>ns = squ}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/squ|Ethnologue data]]
+
